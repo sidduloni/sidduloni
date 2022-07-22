@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sidduloni
-- 👀 I’m interested in developing and designing in full stack and mean stack.
-- 🌱 I’m currently learning MEAN Blockchain development
+- 👀 I’m interested in development and designing in full/mean stack. 
+- { } Specialization in: Php, Nodejs, Angular, Mongodb, MySql, Expressjs, Android, HTML, Css, JS etc..
+- 🌱 I’m currently learning Blockchain software development
 - 💞️ I’m looking to collaborate on DataScience and machine learning.
 - 📫 How to reach me : Catch me on Linkedin - https://in.linkedin.com/in/siddu-loni
 
